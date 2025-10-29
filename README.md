@@ -310,7 +310,7 @@ DELIMITER ;
 
 
 
-\*\*Luiz Eduardo\*\*  
+Luiz Eduardo
 
 📍 São José dos Campos, SP — Brasil  
 
@@ -330,7 +330,7 @@ Se quiser trocar ideias ou colaborar:
 
 
 
-\- \[LinkedIn](https://www.linkedin.com/in/luiz-eduardosc/)
+\- LinkedIn: https://www.linkedin.com/in/luiz-eduardosc/
 
 \- Email: luizeduardoedd1@gmail.com
 
