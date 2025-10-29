@@ -1,9 +1,3 @@
-## 📄 README.md Completo
-
-
-
-
-
 # 💻 Projeto Full Stack — React, Spring Boot e SQL
 
 
