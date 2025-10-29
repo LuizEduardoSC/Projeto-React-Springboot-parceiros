@@ -1,10 +1,10 @@
-\## 📄 README.md Completo
+## 📄 README.md Completo
 
 
 
 
 
-\# 💻 Projeto Full Stack — React, Spring Boot e SQL
+# 💻 Projeto Full Stack — React, Spring Boot e SQL
 
 
 
@@ -24,7 +24,7 @@ Este repositório contém um projeto completo com:
 
 
 
-\## 📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 
 
@@ -48,11 +48,11 @@ meu-projeto/
 
 
 
-\## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 
 
 
-\### 🔧 Backend — Spring Boot
+### 🔧 Backend — Spring Boot
 
 
 
@@ -80,7 +80,7 @@ meu-projeto/
 
 
 
-\### 🌐 Frontend — React
+### 🌐 Frontend — React
 
 
 
@@ -104,7 +104,7 @@ meu-projeto/
 
 
 
-\### 🗃 Banco de Dados — MySQL (ou compatível)
+### 🗃 Banco de Dados — MySQL (ou compatível)
 
 
 
@@ -268,7 +268,7 @@ DELIMITER ;
 
 
 
-\## 📌 Funcionalidades
+## 📌 Funcionalidades
 
 
 
@@ -284,7 +284,7 @@ DELIMITER ;
 
 
 
-\## 🧠 Tecnologias Utilizadas
+## 🧠 Tecnologias Utilizadas
 
 
 
@@ -306,7 +306,7 @@ DELIMITER ;
 
 
 
-\## 👤 Autor
+## 👤 Autor
 
 
 
@@ -322,7 +322,7 @@ DELIMITER ;
 
 
 
-\## 📬 Contato
+## 📬 Contato
 
 
 
