@@ -71,14 +71,14 @@ meu-projeto/
 4\. A API será iniciada em `http://localhost:8080`.
 
 
-
+&nbsp;
 
 
 ### 🌐 Frontend — React
 
 
 
-1\. Instale o \*\*Node.js\*\* o\*\*vite\* e o \*\*npm\*\*.
+1\. Instale o Node.js o vite\ e o npm.
 
 2\. Navegue até a pasta
 
@@ -90,12 +90,11 @@ meu-projeto/
 
 &nbsp;  npm start
 
-&nbsp;  ```
 
 3\. A aplicação será iniciada em `http://localhost:5173/`.
 
 
-
+&nbsp;
 
 
 ### 🗃 Banco de Dados — MySQL (ou compatível)
@@ -260,7 +259,7 @@ DELIMITER ;
 
 
 
-
+&nbsp;
 
 ## 📌 Funcionalidades
 
@@ -275,7 +274,7 @@ DELIMITER ;
 \- Procedures para manipulação de dados no banco
 
 
-
+&nbsp;
 
 
 ## 🧠 Tecnologias Utilizadas
@@ -295,10 +294,9 @@ DELIMITER ;
 | Outros       | Git, GitHub                      |
 
 
-
 ---
 
-
+&nbsp;
 
 ## 👤 Autor
 
